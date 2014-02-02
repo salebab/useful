@@ -1,0 +1,19 @@
+{
+    "name": "salebab/useful",
+    "description": "Useful helpers and libraries",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Aleksandar Babic",
+            "email": "salebab@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    },
+
+    "autoload": {
+        "psr-4": {"useful\\": "src/"}
+    }
+}
